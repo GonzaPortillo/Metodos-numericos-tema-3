@@ -9,10 +9,8 @@ Los metodos que veremos en esta ocacion son:
 
 **1. Metodo del trapecio:** Aproxima el integral de una función en un intervalo [a,b] centrado en cero mediante un cálculo numérico con menos operaciones y evaluaciones de la función. Se representa como una suma ponderada
 
-**2. Regla de Simpson 1/3** 
+**2. Regla de Simpson:** La regla de Simpson es un método de integración numérica. En otras palabras, es la aproximación numérica de integrales definidas.
 
-**3. Regla de Simpson 1/8** 
-
-**4. Cuadratula Gaussiana** 
+**3. Cuadratula Gaussiana:** 
 
 ## _**ACERCA DE LA MATERIA**_
