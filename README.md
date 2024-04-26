@@ -14,3 +14,5 @@ Los metodos que veremos en esta ocacion son:
 **3. Cuadratula Gaussiana:** 
 
 ## _**ACERCA DE LA MATERIA**_
+
+## _**COMPETENCIA**_
