@@ -6,16 +6,5 @@ a la materia de metodos numericos. En este problemario presentare los siguientes
 ## _**INDICE**_
 
 ## _**DESCRIPCIÓN DEL PROBLEMARIO**_
-En el siguiente conjunto de ejercicios, veremos cuatro metodos de resolucion de sistemas de ecuaciones lineales.
-
-Los metodos son:
-
-**1. Eliminacion Gaussiana:** 
-
-**2. Gauss-Jordan** 
-
-**3. Gauss-Seidel** 
-
-**4. Metodo de Jacobi** 
 
 ## _**ACERCA DE LA MATERIA**_
