@@ -15,4 +15,6 @@ Los metodos que veremos en esta ocacion son:
 
 ## _**ACERCA DE LA MATERIA**_
 
-## _**COMPETENCIA**_
+## _**DESARROLLO**_
+
+## _**CONCLUSIONES**_
