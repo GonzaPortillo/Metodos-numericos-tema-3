@@ -2,14 +2,14 @@
 
 ## INDICE
 
-1. Indice
-2. Intro
-3. Algoritmos
-4. Codigo en Java
-5. Resultados de compilación
-6. Conclusion
+1. [Introducción]
+2. [Algoritmos]
+3. [Implementación en Java]
+4. [Problemas]
+5. [Resultados de compilación]
+6. [Conclusión]
 
-## Introduccion
+## Introducción
 
 Los métodos de solución de sistemas de ecuaciones son procedimientos matemáticos que se utilizan para encontrar las soluciones de un conjunto de ecuaciones simultáneas. En el contexto de la materia de Métodos Numéricos, se abordan técnicas específicas para resolver sistemas de ecuaciones de manera aproximada, especialmente cuando las soluciones exactas no son prácticas de obtener o cuando se trabaja con sistemas grandes y complejos.
 
@@ -39,18 +39,18 @@ Los metodos que veremos en esta ocacion son:
 
 ### Gauss-Seidel
 
-1.Inicializar las soluciones (x_0^{(0)}, x_1^{(0)}, ..., x_n^{(0)}) de manera arbitraria o utilizando valores aproximados.
+1. Inicializar las soluciones (x_0^{(0)}, x_1^{(0)}, ..., x_n^{(0)}) de manera arbitraria o utilizando valores aproximados.
 2. Para cada ecuación (i) en el sistema, calcular (x_i^{(k+1)}) utilizando las soluciones calculadas en la iteración (k).
 3. Repetir el paso 2 hasta que se satisfaga un criterio de convergencia (por ejemplo, la diferencia entre dos iteraciones consecutivas sea menor que una tolerancia predefinida).
 
 ### Metodo de Jacobi
 
-1.-Inicialización: Comienza con una estimación inicial de las soluciones del sistema de ecuaciones lineales 𝐴𝑥=𝑏. Puedes empezar con un vector 𝑥^(0). 
-2.-Iteraciones: Para cada iteración 𝑘. 
-3.-Criterio de parada: Repite el paso 2 hasta que se cumpla algún criterio de parada. Un criterio común es que la diferencia entre dos iteraciones consecutivas sea menor que una cierta tolerancia predefinida, o hasta que se alcance un número máximo de iteraciones. 
-4.-Salida: El vector 𝑥^(𝑘)será la aproximación de la solución del sistema de ecuaciones lineales.
+1. Inicialización: Comienza con una estimación inicial de las soluciones del sistema de ecuaciones lineales 𝐴𝑥=𝑏. Puedes empezar con un vector 𝑥^(0).
+2. Iteraciones: Para cada iteración 𝑘.
+3. Criterio de parada: Repite el paso 2 hasta que se cumpla algún criterio de parada. Un criterio común es que la diferencia entre dos iteraciones consecutivas sea menor que una cierta tolerancia predefinida, o hasta que se alcance un número máximo de iteraciones.
+4. Salida: El vector 𝑥^(𝑘)será la aproximación de la solución del sistema de ecuaciones lineales.
 
-## Codigo en Java
+## Implementación en Java
 
 ### Eliminacion Gaussiana:
 
