@@ -2,7 +2,7 @@
 
 ## INDICE
 
-1. [Introducción]
+1. [Introducción](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#introducción)
 2. [Algoritmos]
 3. [Implementación en Java]
 4. [Problemas]
