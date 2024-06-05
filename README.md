@@ -56,6 +56,7 @@ Los metodos que veremos en esta ocacion son:
 ## Implementación en Java
 
 ### Eliminacion Gaussiana:
+[Mas ejemplos de eliminacion Gaussiana en codigo](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/tree/main/Eliminacion%20Gaussiana)
 
     public class EliminacionGaussiana {
 
@@ -103,6 +104,7 @@ Los metodos que veremos en esta ocacion son:
 
 
 ### Gauss-Jordan
+[Mas ejemplos de Gauss Jordan en codigo](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/tree/main/Gauss%20Jordan)
 
     public class GaussJordan {
     
@@ -159,6 +161,7 @@ Los metodos que veremos en esta ocacion son:
 
 
 ### Gauss-Seidel
+[Mas ejemplos de Gauss Seidel en codigo](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/tree/main/Gauss%20Seidel)
 
     public class GaussSeidel {
     
@@ -226,6 +229,7 @@ Los metodos que veremos en esta ocacion son:
 
 
 ### Metodo de Jacobi
+[Mas ejemplos de Metodo de Jacobi en codigo](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/tree/main/Jacobi)
 
     public class JacobiMethod {
         // Método para resolver el sistema de ecuaciones usando el método de Jacobi
