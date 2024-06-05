@@ -9,9 +9,8 @@
     * [Gauss Jordan](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#gauss-jordan-1)
     * [Gauss Seidel](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#gauss-seidel-1)
     * [Jacobi](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#metodo-de-jacobi-1)
-5. [Problemas]
-6. [Resultados de compilación]
-7. [Conclusión]
+5. [Resultados de compilación](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#resultados-de-compilación)
+6. [Conclusión]
 
 ## Introducción
 
