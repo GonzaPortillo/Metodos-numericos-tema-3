@@ -8,7 +8,7 @@
     * [Eliminacion Gaussiana](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#eliminacion-gaussiana-1)
     * [Gauss Jordan](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#gauss-jordan-1)
     * [Gauss Seidel](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#gauss-seidel-1)
-    * [Jacobi]
+    * [Jacobi](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#metodo-de-jacobi-1)
 5. [Problemas]
 6. [Resultados de compilación]
 7. [Conclusión]
