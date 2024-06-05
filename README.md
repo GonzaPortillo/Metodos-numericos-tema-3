@@ -3,11 +3,15 @@
 ## INDICE
 
 1. [Introducción](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#introducción)
-2. [Algoritmos]
+2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#algoritmos)
 3. [Implementación en Java]
-4. [Problemas]
-5. [Resultados de compilación]
-6. [Conclusión]
+* [Eliminacion Gaussiana]
+* [Gauss Jordan]
+* [Gauss Seidel]
+* [Jacobi]
+5. [Problemas]
+6. [Resultados de compilación]
+7. [Conclusión]
 
 ## Introducción
 
