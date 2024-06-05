@@ -6,7 +6,7 @@
 2. [Algoritmos](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#algoritmos)
 3. [Implementación en Java](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#implementación-en-java)
     * [Eliminacion Gaussiana](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#eliminacion-gaussiana-1)
-    * [Gauss Jordan]
+    * [Gauss Jordan](https://github.com/GonzaPortillo/Metodos-numericos-tema-3/blob/main/README.md#gauss-jordan-1)
     * [Gauss Seidel]
     * [Jacobi]
 5. [Problemas]
